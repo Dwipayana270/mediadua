@@ -30,7 +30,7 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
-              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
@@ -74,6 +74,7 @@
               <option name="font" value="Open Sans" />
             </options>
           </option>
+          <option name="settings" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1252,7 +1253,11 @@
         <slidelink slideid="_player.63i1Bw73Bpn" displaytext="Kuis" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.63i1Bw73Bpn.5mcUUdtO5Yr" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.63i1Bw73Bpn.62AzGnzY3kM" displaytext="Draw from New Question Bank" expand="false" type="slide" />
+            <slidelink slideid="_player.63i1Bw73Bpn.6lZ6NJEaX7g" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.63i1Bw73Bpn.6KX76gZSZ1p" displaytext=" " expand="false" type="slide" />
+            <slidelink slideid="_player.63i1Bw73Bpn.6BPshx2rajR" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.63i1Bw73Bpn.69z2W3sMhSd" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.63i1Bw73Bpn.5cehf5AfdKh" displaytext="Multiple Choice" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6dv7q20enPJ" displaytext="Latihan" expand="true" type="slide">
